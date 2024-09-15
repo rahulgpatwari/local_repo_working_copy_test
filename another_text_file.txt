@@ -1,0 +1,7 @@
+Ah, okay. So I figured out how to add a local repository to the github repository. 
+
+1. You need to go to the Repository thing on the sidebar, then pick "add remote". 
+
+2. From there go to "Create Repository" and it will walk you through connecting it to Github.com
+
+3. I think it by default creates a private repository, but there is a selector slider that allows you to select Public as well. I went with public because nothing here is worth hiding. It's just me playing around for now. 
